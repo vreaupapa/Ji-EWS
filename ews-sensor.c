@@ -4,6 +4,7 @@
 
 int msgid_global;
 
+//functia thread ului pentru trimiterea mesajului de puls
 void* thread_worker(void* arg){
     int senzor_id = *(int *)arg;
 

@@ -59,7 +59,7 @@ int main(){
         printf("\033[H\033[J");
 
 
-        //scriere statistici
+        //scriere statistici in cazurile in care senzorii merg sau nu
         printf("   PANOU DE CONTROL - MONITORIZARE LIVE   \n\n");
         printf("==================================================\n");
         if(alerta_critica == 1){

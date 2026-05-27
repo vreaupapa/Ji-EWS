@@ -11,7 +11,7 @@
 #include <signal.h>
 
 #define MAX_SENSORS 5
-#define THRESHOLD_DANGER 3.0 //magnitudinea peste care e nasol
+#define THRESHOLD_DANGER 4.0 //magnitudinea peste care e nasol
 #define PROJECT_ID 'J'
 
 //senzor -> daemon (mtype = 1)
@@ -37,7 +37,7 @@ struct stats_msg{
     int senzor_cazut;
 };
 
-//structutra pentru heartbeat
+//structutra pentru heartbeat(verificare ca senzorii traiesc)
 
 struct heartbeat_msg{
     long mtype;

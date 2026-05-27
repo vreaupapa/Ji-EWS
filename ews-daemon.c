@@ -70,6 +70,17 @@ void* thread_worker(void* arg){
                 }
                 fclose(pid_file);
             }
+
+            int trains_fd = open("trains.pid", O_RDONLY);
+            if(trains_fd != 1){
+                char pid_buf[32] = {0};
+                if(read(trains_fd, pid_buf, sizeof(pid_buf) - 1) > 0){
+                    kill(atoi(pid_buf), SIGUSR1);
+                    printf("[Daemon] Semnal de oprire de urgenta trimis catre Trenuri!\n");
+                    fflush(stdout);
+                }
+                close(trains_fd);
+            }
         }
         //declarare + populare structura pentru dashboard
         struct stats_msg pachet_statistici;
@@ -220,14 +231,18 @@ int main(){
     if(pthread_create(&thread_colector_puls, NULL, thread_puls, NULL) != 0){
         perror("Eroare la crearea thread ului colector");
     }
-
+    //aici verificam, pe langa semnalul de sleep care face sa nu se consume 100% din CPU
+    //si daca un senzor nu a mai trimis un semnal de 15 secunde ceea ce inseamna ca a murit
     while(1){
         for(int i=0; i<MAX_SENSORS; i++){
+            //punem lacat cu mutex ca sa nu se calce in picioare intre ele
             pthread_mutex_lock(&lacat_date);
             if(time(NULL) - ultima_bataie[i] > 15){
                 ultima_bataie[i] = time(NULL);
                 printf("[WATCHDOG] Eroare CRITICA! senzorul %d a picat\n", i+1);
                 fflush(stdout);
+
+                //trimitem mesaj cu mtype = 2(destinat monitorizarii (dashboard)) ca e senzorul picat
                 struct stats_msg picat;
                 size_t msg_size = sizeof(struct stats_msg) - sizeof(long);
 
