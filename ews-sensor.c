@@ -1,21 +1,6 @@
 #include "ews-common.h"
 #include <time.h>
 
-/*
-    -verificam daca avem numarul de argumente necesar
-    -initializam generator de nuemre aleatoare
-    -generam cheia pe care o vom folosi pentru a comunica cu message queue(ca sa nu scrie toate deodata)
-    key_t key = ftok(cale, argument) - face un ID unic folosind argumentul si hashing
-    -ne conectam la message queue
-    msgget(key, permisiune | IPC_CREAT) (in caz ca nu a fost creat, folosim IPC_CREAT pentru a il crea, altfel, te conectezi direct la ea)
-    -bucla infinita
-        -timp random de dormit deoarece cutremurele nu sunt constante(cred ca o sa pun intre 2 si 7 secunde)
-        -generam cutremure random (80% sa fie mic/20% sa fie periculos)
-        -bagam datele intr un sensor
-        -trimitem datele de la sensor la message queue(neaparat fara marimea lui mtype, acela nu ne trebuie)
-        msgsnd(Message_Queue, &sensor_data, size_data, 0)//0 in caz de succes, -1 in caz de eroare
-*/
-
 int main(int argc, char* argv[]){
     //-verificam daca avem numarul de argumente necesar
     if(argc != 2){

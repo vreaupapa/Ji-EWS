@@ -14,6 +14,7 @@
 #define THRESHOLD_DANGER 7.0 //magnitudinea peste care e nasol
 #define PROJECT_ID 'J'
 
+//senzor -> daemon (mtype = 1)
 struct sensor_msg{
     long mtype;     //tipul mesajului
     //Orice structura pe care vreau sa o bag intr o coada de mesaje trebuie sa aiba
@@ -25,6 +26,14 @@ struct sensor_msg{
     int sensor_id; //care senzor trimite
     double magnitude;
     char location[32]; //unde e cutremurul
+};
+
+//daemon -> Dashboard (mtype = 2)
+
+struct stats_msg{
+    long mtype;
+    double medie_pericol; //se leaga de nivel_pericol_global
+    int total_mesaje; //mesajele procesate
 };
 
 #endif
