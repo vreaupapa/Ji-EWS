@@ -71,9 +71,13 @@ int main(){
             alerta_critica = 0;
             sleep(2);
         }
-        printf("[STATUS SISTEM] : ACTIV\n");
-        printf("[MESAJE PROCESATE] : %d\n", statistici.total_mesaje);
-        printf("[MEDIE SEISMICA CURENTA] : %.2f grade\n", statistici.medie_pericol);
+        if(!statistici.senzor_cazut){
+            printf("[STATUS SISTEM] : ACTIV\n");
+            printf("[MESAJE PROCESATE] : %d\n", statistici.total_mesaje);
+            printf("[MEDIE SEISMICA CURENTA] : %.2f grade\n", statistici.medie_pericol);
+        } else {
+            printf("[STATUS SISTEM] : PICAT\n");
+        }
 
         sleep(1);
     }

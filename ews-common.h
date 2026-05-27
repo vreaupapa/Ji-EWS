@@ -34,6 +34,14 @@ struct stats_msg{
     long mtype;
     double medie_pericol; //se leaga de nivel_pericol_global
     int total_mesaje; //mesajele procesate
+    int senzor_cazut;
+};
+
+//structutra pentru heartbeat
+
+struct heartbeat_msg{
+    long mtype;
+    int sensor_id;
 };
 
 #endif

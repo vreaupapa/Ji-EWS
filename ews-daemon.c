@@ -3,10 +3,12 @@
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <fcntl.h>
+#include <time.h>
 
 //declararea variabilelor globale(threadurile le pot vedea deoarece dau share la aceeasi memorie)
 double nivel_pericol_global = 0.0;
 int mesaje_procesate = 0;
+time_t ultima_bataie[MAX_SENSORS];
 
 //declaram mutex pentru a proteja variabilele de mai sus, practic punem un lacat pe date pentru a nu se intercala threadurile intre ele, doar unu acces
 //la un moment dat la a schimba valoarea pentru mesaje procesate si nivel_pericol_global
@@ -74,6 +76,7 @@ void* thread_worker(void* arg){
         pachet_statistici.mtype = 2;
         pachet_statistici.medie_pericol = nivel_pericol_global;
         pachet_statistici.total_mesaje = mesaje_procesate;
+        pachet_statistici.senzor_cazut = 0;
 
         size_t stats_size = sizeof(struct stats_msg) - sizeof(long);
         //trimitem mesaj in message_queue, deoarece avem mtype = 2, programul stie automat cum sa le selecteze, care pentru ce proces
@@ -81,6 +84,31 @@ void* thread_worker(void* arg){
         //unlock pthread - am terminat de scris ceea ce aveam asa ca dam unlock pentru ca urmatorul thread sa inceapa sa isi faca treaba
         pthread_mutex_unlock(&lacat_date);
         //punem la somn ca in caz de trafic intens de date, sa nu ia si sa sccrie incontinuu un singur thread iar celelalte sa stea degeaba
+        sleep(1);
+    }
+    pthread_exit(NULL);
+}
+
+//functie pentru thread ul pulsului
+void* thread_puls(void* arg){
+    struct heartbeat_msg hrtbt;
+    size_t msg_size = sizeof(struct heartbeat_msg) - sizeof(long);
+
+    while(1){
+        if(msgrcv(msgid_global, &hrtbt, msg_size, 3, 0) == -1){
+            perror("Eroare, s a inchis coada de asteptare");
+            break;
+        }
+
+        pthread_mutex_lock(&lacat_date);
+
+        printf("[DAEMON] Puls receptionat de la senzorul cu ID %d\n", hrtbt.sensor_id);
+        fflush(stdout);
+
+        ultima_bataie[hrtbt.sensor_id - 1] = time(NULL);
+
+        pthread_mutex_unlock(&lacat_date);
+
         sleep(1);
     }
     pthread_exit(NULL);
@@ -126,6 +154,11 @@ int main(){
     }
     if(pid > 0){
         exit(EXIT_SUCCESS);
+    }
+
+    //setam vectorul timp cu timpul la care s acreat deamon ul
+    for(int i=0; i<MAX_SENSORS; i++){
+        ultima_bataie[i] = time(NULL);
     }
 
     //inchidem descriptorii standard (STDIN_FILENO, STDOUT_FILENO, STDERR_FILENO)
@@ -183,8 +216,32 @@ int main(){
         }
     }
 
+    pthread_t thread_colector_puls;
+    if(pthread_create(&thread_colector_puls, NULL, thread_puls, NULL) != 0){
+        perror("Eroare la crearea thread ului colector");
+    }
+
     while(1){
-        //dam sleep intr o bucla infinita pentru a da update o data la un anumit interval de timp
-        sleep(10);
+        for(int i=0; i<MAX_SENSORS; i++){
+            pthread_mutex_lock(&lacat_date);
+            if(time(NULL) - ultima_bataie[i] > 15){
+                ultima_bataie[i] = time(NULL);
+                printf("[WATCHDOG] Eroare CRITICA! senzorul %d a picat\n", i+1);
+                fflush(stdout);
+                struct stats_msg picat;
+                size_t msg_size = sizeof(struct stats_msg) - sizeof(long);
+
+                picat.mtype = 2;
+                picat.medie_pericol = 0.0;
+                picat.total_mesaje = 0;
+                picat.senzor_cazut = 1;
+
+                if(msgsnd(msgid_global, &picat, msg_size, IPC_NOWAIT) == -1){
+                    perror("Eroare trimitere mesaj");
+                }
+            }
+            pthread_mutex_unlock(&lacat_date);
+        }
+        sleep(2);
     }
 }
