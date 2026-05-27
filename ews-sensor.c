@@ -24,12 +24,18 @@ void* thread_worker(void* arg){
 
 int main(int argc, char* argv[]){
     //-verificam daca avem numarul de argumente necesar
-    if(argc != 2){
+    if(argc != 4){
         printf("Eroare!\n Format Utilizare: %s <ID_Senzor(int)>\n", argv[0]);
         exit(EXIT_FAILURE);
     }
 
     int id_senzor = atoi(argv[1]);
+    int x_senzor = atoi(argv[2]);
+    int y_senzor = atoi(argv[3]);
+    if(x_senzor >= 10 || y_senzor >= 10 || x_senzor < 0 || y_senzor < 0){
+        perror("Eroare creare senzor, trebuie sa aibe coordonate intre 0 si 9!");
+        exit(EXIT_FAILURE);
+    }
     //-initializam generator de nuemre aleatoare
     srand(time(NULL) ^ (getpid() << 16));
 
@@ -74,7 +80,8 @@ int main(int argc, char* argv[]){
         msg.mtype = 1;
         msg.sensor_id = id_senzor;
         msg.magnitude = magn;
-        strcpy(msg.location, "Coasta de Est, JP");
+        msg.x = x_senzor;
+        msg.y = y_senzor;
         //scapam de size ul mtype ului, el nu face parte din datele brute ale mesajului seismului
         size_t msg_size = sizeof(struct sensor_msg) - sizeof(long);
         //-trimitem datele de la sensor la message queue(neaparat fara marimea lui mtype, acela nu ne trebuie)

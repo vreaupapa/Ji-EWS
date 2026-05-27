@@ -69,7 +69,6 @@ int main(){
             printf("==================================================\n");
 
             alerta_critica = 0;
-            sleep(2);
         }
         if(!statistici.senzor_cazut){
             printf("[STATUS SISTEM] : ACTIV\n");
@@ -79,7 +78,7 @@ int main(){
             printf("[STATUS SISTEM] : PICAT\n");
         }
 
-        sleep(1);
+        sleep(2);
     }
     remove("dashboard.pid");
     return 0;

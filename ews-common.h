@@ -25,7 +25,7 @@ struct sensor_msg{
     //Vreau doar cele care imi raporteaza cutremurul adica mtype = 1
     int sensor_id; //care senzor trimite
     double magnitude;
-    char location[32]; //unde e cutremurul
+    int x, y;
 };
 
 //daemon -> Dashboard (mtype = 2)
@@ -37,11 +37,18 @@ struct stats_msg{
     int senzor_cazut;
 };
 
-//structutra pentru heartbeat(verificare ca senzorii traiesc)
+//structutra pentru heartbeat(verificare ca senzorii traiesc), mtype = 3
 
 struct heartbeat_msg{
     long mtype;
     int sensor_id;
+};
+
+//structura pentru trenuri, mtype = 4
+
+struct trains_msg{
+    long mtype;
+    int x, y;
 };
 
 #endif

@@ -27,6 +27,11 @@ void* thread_worker(void* arg){
     struct sensor_msg sensor;
     size_t msg_size = sizeof(struct sensor_msg) - sizeof(long);
 
+    struct trains_msg train;
+    size_t train_size = sizeof(struct trains_msg) - sizeof(long);
+    train.mtype = 4;
+
+
     // bucla infinita
     while(1){
         // asteptam sa vedem daca primim mesaj cu mtype 1
@@ -71,16 +76,15 @@ void* thread_worker(void* arg){
                 fclose(pid_file);
             }
 
-            int trains_fd = open("trains.pid", O_RDONLY);
-            if(trains_fd != 1){
-                char pid_buf[32] = {0};
-                if(read(trains_fd, pid_buf, sizeof(pid_buf) - 1) > 0){
-                    kill(atoi(pid_buf), SIGUSR1);
-                    printf("[Daemon] Semnal de oprire de urgenta trimis catre Trenuri!\n");
-                    fflush(stdout);
-                }
-                close(trains_fd);
-            }
+        }
+        //pericol local pentru trenuri
+        if(sensor.magnitude >= THRESHOLD_DANGER){
+            train.x = sensor.x;
+            train.y = sensor.y;
+
+            msgsnd(msgid_global, &train, train_size, IPC_NOWAIT);
+            printf("[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona \nx:%d\ny:%d\n", sensor.x, sensor.y);
+            fflush(stdout);
         }
         //declarare + populare structura pentru dashboard
         struct stats_msg pachet_statistici;
