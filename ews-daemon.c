@@ -56,6 +56,18 @@ void* thread_worker(void* arg){
         if(nivel_pericol_global > THRESHOLD_DANGER){
             printf("[CRITIC] CUTREMUR MARE DETECTAT (%.1f grade)!\n", nivel_pericol_global);
             fflush(stdout);
+
+            FILE* pid_file = fopen("dashboard.pid", "r");
+            if(pid_file != NULL){
+                pid_t dash_pid;
+
+                if(fscanf(pid_file, "%d", &dash_pid) == 1){
+                    kill(dash_pid, SIGUSR1);
+                    printf("[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: %d)\n", dash_pid);
+                    fflush(stdout);
+                }
+                fclose(pid_file);
+            }
         }
         //declarare + populare structura pentru dashboard
         struct stats_msg pachet_statistici;
@@ -68,7 +80,7 @@ void* thread_worker(void* arg){
         msgsnd(msgid_global, &pachet_statistici, stats_size, IPC_NOWAIT);
         //unlock pthread - am terminat de scris ceea ce aveam asa ca dam unlock pentru ca urmatorul thread sa inceapa sa isi faca treaba
         pthread_mutex_unlock(&lacat_date);
-        //dupa ce a terminat treaba acest thread, il punem la somn
+        //punem la somn ca in caz de trafic intens de date, sa nu ia si sa sccrie incontinuu un singur thread iar celelalte sa stea degeaba
         sleep(1);
     }
     pthread_exit(NULL);
@@ -86,7 +98,8 @@ void handle_shutdown(int sig){
 
 int main(){
     //procesul clasic pentru a crea un daemon
-    //dam fork, stergem tatal, punem sa ignore inchiderea proceselor copii prin signal(SIGHUP, SIG_IGN)
+    //dam fork, stergem tatal, punem programul sa ignore semnalul de inchidere al termnalului copii prin signal(SIGHUP, SIG_IGN)
+    //astfel daca terminalul se inchide, procesul nostru supravietuieste
     // dam setsid pentru a se separa de terminal , dupa care un alt fork pentru a nu fi lider de sesiune si sa poata deschida singur
     //un terminal de control, ceea ce face setsid, fiind copil fara tata este complet in intuneric, poate fi inchis doar cu comenzi specifice
     //cum ar fi kill

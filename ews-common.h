@@ -11,7 +11,7 @@
 #include <signal.h>
 
 #define MAX_SENSORS 5
-#define THRESHOLD_DANGER 7.0 //magnitudinea peste care e nasol
+#define THRESHOLD_DANGER 3.0 //magnitudinea peste care e nasol
 #define PROJECT_ID 'J'
 
 //senzor -> daemon (mtype = 1)
