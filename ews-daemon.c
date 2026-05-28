@@ -85,7 +85,28 @@ void* thread_worker(void* arg){
             msgsnd(msgid_global, &train, train_size, IPC_NOWAIT);
             printf("[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona \nx:%d\ny:%d\n", sensor.x, sensor.y);
             fflush(stdout);
+
+            //PENTRU NOTIFICARE PE TELEGRAM
+            pid_t pid = fork();
+            //daca suntem in copil
+            if(pid == 0){
+                char url[256];
+                snprintf(url, sizeof(url), "https://api.telegram.org/bot%s/sendMessage", TELEGRAM_BOT_TOKEN);
+
+                char chat_param[64];
+                snprintf(chat_param, sizeof(chat_param), "chat_id=%s", TELEGRAM_CHAT_ID);
+
+                char text_param[256];
+                snprintf(text_param, sizeof(text_param), "text=ALARMA EWS! Cutremur de %.1f grade detectat la coordonatele X:%d Y%d! Evacuati Cladirea!!\n",\
+                sensor.magnitude, sensor.x, sensor.y);
+
+                //ne folosim de EXECLP pentru a inlocui procesul copil cu curl pentru a trimite mesajul
+                execlp("curl", "curl", "-s", "-X", "POST", url, "-d", chat_param, "-d", text_param, NULL);
+                //daca a esuat, copilu moare
+                exit(1);
+            }
         }
+        
         //declarare + populare structura pentru dashboard
         struct stats_msg pachet_statistici;
         pachet_statistici.mtype = 2;
@@ -134,6 +155,7 @@ void handle_shutdown(int sig){
     printf("\n[Daemon] Se opreste sistemul EWS... Stergem resursele din Kernel.\n");
     //eliberare coada cu IPC_RMID
     msgctl(msgid_global, IPC_RMID, NULL);
+    remove("dashboard.pid");
 
     exit(EXIT_SUCCESS);
 }
@@ -156,6 +178,8 @@ int main(){
     }
 
     signal(SIGHUP, SIG_IGN);
+    //pentru a nu avea procese zombie, le curata automat linuxul
+    signal(SIGCHLD, SIG_IGN);
 
     if(setsid() < 0){
         perror("Setsid a esuat");

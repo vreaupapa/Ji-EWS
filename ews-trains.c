@@ -50,11 +50,13 @@ int main(){
         y_t3 = (rand() % 10);
 
         //asteptam mesaj cu mtype = 4
-        if(msgrcv(msgid, &train, train_size, 4, IPC_NOWAIT) == -1){
+        if(msgrcv(msgid, &train, train_size, 4, IPC_NOWAIT) != -1){
             epicentru_x = train.x;
             epicentru_y = train.y;
         } else if (errno != ENOMSG){
+            if(errno == EINTR) continue;
             //in caz ca eroarea e aceea de coada goala, nu inchide procesul, doar daca e orice altceva
+            printf("%d  ", errno);
             perror("Eroare la msgrcv trenuri");
             break;
         }

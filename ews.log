@@ -10043,3 +10043,1731 @@ S-a sters coada!
 S-a sters coada!
 S-a sters coada!
 S-a sters coada!
+[Daemon EWS] Initializat cu succes ca serviciu de sistem in background.
+Eroare, s a inchis coada de asteptare: Identifier removed
+
+[Daemon] Se opreste sistemul EWS... Stergem resursele din Kernel.
+S-a sters coada!
+S-a sters coada!
+S-a sters coada!
+S-a sters coada!
+S-a sters coada!
+[Daemon EWS] Initializat cu succes ca serviciu de sistem in background.
+[WATCHDOG] Eroare CRITICA! senzorul 1 a picat
+[WATCHDOG] Eroare CRITICA! senzorul 2 a picat
+[WATCHDOG] Eroare CRITICA! senzorul 3 a picat
+[WATCHDOG] Eroare CRITICA! senzorul 4 a picat
+[WATCHDOG] Eroare CRITICA! senzorul 5 a picat
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 2] Procesat raport de la Senzorul 2 (Magnitudine: 2.2). Stare globala: 2.2 grade.
+[Thread 1] Procesat raport de la Senzorul 3 (Magnitudine: 8.1). Stare globala: 5.2 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.2 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 64715)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 3] Procesat raport de la Senzorul 1 (Magnitudine: 3.2). Stare globala: 4.2 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.2 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 64715)
+[Thread 4] Procesat raport de la Senzorul 3 (Magnitudine: 2.7). Stare globala: 3.4 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 5] Procesat raport de la Senzorul 2 (Magnitudine: 2.5). Stare globala: 3.0 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 2] Procesat raport de la Senzorul 3 (Magnitudine: 6.4). Stare globala: 4.7 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.7 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 64715)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 1] Procesat raport de la Senzorul 1 (Magnitudine: 5.5). Stare globala: 5.1 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.1 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 64715)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}[Thread 3] Procesat raport de la Senzorul 2 (Magnitudine: 3.2). Stare globala: 4.1 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.1 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 64715)
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 4] Procesat raport de la Senzorul 2 (Magnitudine: 3.0). Stare globala: 3.6 grade.
+[Thread 5] Procesat raport de la Senzorul 3 (Magnitudine: 2.5). Stare globala: 3.1 grade.
+[WATCHDOG] Eroare CRITICA! senzorul 4 a picat
+[WATCHDOG] Eroare CRITICA! senzorul 5 a picat
+[Thread 2] Procesat raport de la Senzorul 1 (Magnitudine: 8.2). Stare globala: 5.6 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.6 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 64715)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 1] Procesat raport de la Senzorul 3 (Magnitudine: 2.0). Stare globala: 3.8 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 3] Procesat raport de la Senzorul 1 (Magnitudine: 7.4). Stare globala: 5.6 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.6 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 64715)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 4] Procesat raport de la Senzorul 2 (Magnitudine: 3.6). Stare globala: 4.6 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.6 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 64715)
+[Thread 5] Procesat raport de la Senzorul 3 (Magnitudine: 4.1). Stare globala: 4.4 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.4 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 64715)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 2] Procesat raport de la Senzorul 1 (Magnitudine: 2.2). Stare globala: 3.3 grade.
+[Thread 1] Procesat raport de la Senzorul 2 (Magnitudine: 4.1). Stare globala: 3.7 grade.
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 3] Procesat raport de la Senzorul 1 (Magnitudine: 4.8). Stare globala: 4.2 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.2 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 64715)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}[Thread 4] Procesat raport de la Senzorul 3 (Magnitudine: 2.0). Stare globala: 3.1 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 5] Procesat raport de la Senzorul 1 (Magnitudine: 3.5). Stare globala: 3.3 grade.
+[Thread 2] Procesat raport de la Senzorul 2 (Magnitudine: 6.8). Stare globala: 5.0 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.0 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 64715)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}[DAEMON] Puls receptionat de la senzorul cu ID 2
+[WATCHDOG] Eroare CRITICA! senzorul 4 a picat
+[WATCHDOG] Eroare CRITICA! senzorul 5 a picat
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 1] Procesat raport de la Senzorul 2 (Magnitudine: 3.3). Stare globala: 4.2 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.2 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 64715)
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 3] Procesat raport de la Senzorul 2 (Magnitudine: 7.3). Stare globala: 5.7 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.7 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 64715)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+[Thread 4] Procesat raport de la Senzorul 3 (Magnitudine: 3.6). Stare globala: 4.6 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.6 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 64715)
+{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 5] Procesat raport de la Senzorul 1 (Magnitudine: 3.1). Stare globala: 3.9 grade.
+[Thread 2] Procesat raport de la Senzorul 1 (Magnitudine: 3.5). Stare globala: 3.7 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 1] Procesat raport de la Senzorul 3 (Magnitudine: 4.9). Stare globala: 4.3 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.3 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 64715)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 3] Procesat raport de la Senzorul 2 (Magnitudine: 4.5). Stare globala: 4.4 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.4 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 64715)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 4] Procesat raport de la Senzorul 1 (Magnitudine: 2.0). Stare globala: 3.2 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 5] Procesat raport de la Senzorul 2 (Magnitudine: 4.9). Stare globala: 4.0 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.0 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 64715)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 2] Procesat raport de la Senzorul 1 (Magnitudine: 4.9). Stare globala: 4.5 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.5 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 64715)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 1] Procesat raport de la Senzorul 3 (Magnitudine: 5.0). Stare globala: 4.7 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.7 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 64715)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}[WATCHDOG] Eroare CRITICA! senzorul 4 a picat
+[WATCHDOG] Eroare CRITICA! senzorul 5 a picat
+[Thread 3] Procesat raport de la Senzorul 1 (Magnitudine: 8.5). Stare globala: 6.6 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (6.6 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 64715)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 4] Procesat raport de la Senzorul 2 (Magnitudine: 5.0). Stare globala: 5.8 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.8 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 64715)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}[DAEMON] Puls receptionat de la senzorul cu ID 2
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 5] Procesat raport de la Senzorul 3 (Magnitudine: 3.3). Stare globala: 4.5 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.5 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 64715)
+[Thread 2] Procesat raport de la Senzorul 2 (Magnitudine: 6.9). Stare globala: 5.7 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.7 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 64715)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}[Thread 1] Procesat raport de la Senzorul 1 (Magnitudine: 2.8). Stare globala: 4.3 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.3 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 64715)
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 3] Procesat raport de la Senzorul 1 (Magnitudine: 2.2). Stare globala: 3.3 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 4] Procesat raport de la Senzorul 3 (Magnitudine: 3.3). Stare globala: 3.3 grade.
+[Thread 5] Procesat raport de la Senzorul 2 (Magnitudine: 2.7). Stare globala: 3.0 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 2] Procesat raport de la Senzorul 3 (Magnitudine: 5.2). Stare globala: 4.1 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.1 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 64715)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 1] Procesat raport de la Senzorul 1 (Magnitudine: 7.5). Stare globala: 5.8 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.8 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 64715)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 3] Procesat raport de la Senzorul 3 (Magnitudine: 3.7). Stare globala: 4.7 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.7 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 64715)
+[WATCHDOG] Eroare CRITICA! senzorul 4 a picat
+[WATCHDOG] Eroare CRITICA! senzorul 5 a picat
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 4] Procesat raport de la Senzorul 2 (Magnitudine: 3.0). Stare globala: 3.9 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 5] Procesat raport de la Senzorul 3 (Magnitudine: 5.2). Stare globala: 4.5 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.5 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 64715)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 2] Procesat raport de la Senzorul 1 (Magnitudine: 7.5). Stare globala: 6.0 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (6.0 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 64715)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}[Thread 1] Procesat raport de la Senzorul 3 (Magnitudine: 7.0). Stare globala: 6.5 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (6.5 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 64715)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 3] Procesat raport de la Senzorul 2 (Magnitudine: 2.6). Stare globala: 4.5 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.5 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 64715)
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 4] Procesat raport de la Senzorul 3 (Magnitudine: 3.3). Stare globala: 3.9 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 5] Procesat raport de la Senzorul 1 (Magnitudine: 8.3). Stare globala: 6.1 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (6.1 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 64715)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}[Thread 2] Procesat raport de la Senzorul 3 (Magnitudine: 2.2). Stare globala: 4.2 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.2 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 64715)
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 1] Procesat raport de la Senzorul 3 (Magnitudine: 2.9). Stare globala: 3.6 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 3] Procesat raport de la Senzorul 1 (Magnitudine: 2.7). Stare globala: 3.1 grade.
+[Thread 4] Procesat raport de la Senzorul 2 (Magnitudine: 7.8). Stare globala: 5.5 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.5 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 64715)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}[DAEMON] Puls receptionat de la senzorul cu ID 3
+[WATCHDOG] Eroare CRITICA! senzorul 4 a picat
+[WATCHDOG] Eroare CRITICA! senzorul 5 a picat
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 5] Procesat raport de la Senzorul 1 (Magnitudine: 2.0). Stare globala: 3.7 grade.
+[Thread 2] Procesat raport de la Senzorul 3 (Magnitudine: 4.5). Stare globala: 4.1 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.1 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 64715)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 1] Procesat raport de la Senzorul 2 (Magnitudine: 3.6). Stare globala: 3.9 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 3] Procesat raport de la Senzorul 1 (Magnitudine: 4.4). Stare globala: 4.1 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.1 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 64715)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}[DAEMON] Puls receptionat de la senzorul cu ID 3
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 4] Procesat raport de la Senzorul 2 (Magnitudine: 4.4). Stare globala: 4.3 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.3 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 64715)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+[Thread 5] Procesat raport de la Senzorul 3 (Magnitudine: 4.3). Stare globala: 4.3 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.3 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 64715)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 2] Procesat raport de la Senzorul 3 (Magnitudine: 2.3). Stare globala: 3.3 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 1] Procesat raport de la Senzorul 1 (Magnitudine: 7.9). Stare globala: 5.6 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.6 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 64715)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 3] Procesat raport de la Senzorul 3 (Magnitudine: 3.9). Stare globala: 4.7 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.7 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 64715)
+[Thread 4] Procesat raport de la Senzorul 2 (Magnitudine: 7.9). Stare globala: 6.3 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (6.3 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 64715)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}[DAEMON] Puls receptionat de la senzorul cu ID 1
+[WATCHDOG] Eroare CRITICA! senzorul 4 a picat
+[WATCHDOG] Eroare CRITICA! senzorul 5 a picat
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 5] Procesat raport de la Senzorul 1 (Magnitudine: 2.2). Stare globala: 4.3 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.3 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 64715)
+[Thread 2] Procesat raport de la Senzorul 3 (Magnitudine: 2.3). Stare globala: 3.3 grade.
+[Thread 1] Procesat raport de la Senzorul 2 (Magnitudine: 4.5). Stare globala: 3.9 grade.
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+{"ok":false,"error_code":400,"description":"Bad Request: message text is empty"}[Thread 3] Procesat raport de la Senzorul 1 (Magnitudine: 3.8). Stare globala: 3.9 grade.
+Eroare, s a inchis coada de asteptare: Identifier removed
+
+[Daemon] Se opreste sistemul EWS... Stergem resursele din Kernel.
+S-a sters coada!
+S-a sters coada!
+S-a sters coada!
+S-a sters coada!
+[Daemon EWS] Initializat cu succes ca serviciu de sistem in background.
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 1] Procesat raport de la Senzorul 2 (Magnitudine: 4.5). Stare globala: 4.5 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.5 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 65920)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+{"ok":true,"result":{"message_id":4,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950018,"text":"ALARMA EWS! Cutremur de 4.5 grade detectat la coordonatele                     X:6 Y7! Evacuati Cladirea!!"}}[Thread 2] Procesat raport de la Senzorul 2 (Magnitudine: 3.6). Stare globala: 4.1 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.1 grade)!
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 3] Procesat raport de la Senzorul 1 (Magnitudine: 5.7). Stare globala: 4.9 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.9 grade)!
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+[Thread 4] Procesat raport de la Senzorul 3 (Magnitudine: 4.5). Stare globala: 4.7 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.7 grade)!
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+{"ok":true,"result":{"message_id":5,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950021,"text":"ALARMA EWS! Cutremur de 4.5 grade detectat la coordonatele                     X:5 Y5! Evacuati Cladirea!!"}}{"ok":true,"result":{"message_id":6,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950021,"text":"ALARMA EWS! Cutremur de 5.7 grade detectat la coordonatele                     X:2 Y4! Evacuati Cladirea!!"}}[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 5] Procesat raport de la Senzorul 1 (Magnitudine: 2.0). Stare globala: 3.3 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 1] Procesat raport de la Senzorul 3 (Magnitudine: 4.0). Stare globala: 3.7 grade.
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+{"ok":true,"result":{"message_id":7,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950023,"text":"ALARMA EWS! Cutremur de 4.0 grade detectat la coordonatele                     X:5 Y5! Evacuati Cladirea!!"}}[WATCHDOG] Eroare CRITICA! senzorul 4 a picat
+[WATCHDOG] Eroare CRITICA! senzorul 5 a picat
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 2] Procesat raport de la Senzorul 1 (Magnitudine: 3.3). Stare globala: 3.5 grade.
+[Thread 3] Procesat raport de la Senzorul 3 (Magnitudine: 7.7). Stare globala: 5.6 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.6 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 65975)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+{"ok":true,"result":{"message_id":8,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950026,"text":"ALARMA EWS! Cutremur de 7.7 grade detectat la coordonatele                     X:5 Y5! Evacuati Cladirea!!"}}[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 4] Procesat raport de la Senzorul 2 (Magnitudine: 3.3). Stare globala: 4.5 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.5 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 65975)
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 5] Procesat raport de la Senzorul 3 (Magnitudine: 7.4). Stare globala: 5.9 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.9 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 65975)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+{"ok":true,"result":{"message_id":9,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950029,"text":"ALARMA EWS! Cutremur de 7.4 grade detectat la coordonatele                     X:5 Y5! Evacuati Cladirea!!"}}[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 1] Procesat raport de la Senzorul 1 (Magnitudine: 3.4). Stare globala: 4.7 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.7 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 65975)
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 2] Procesat raport de la Senzorul 2 (Magnitudine: 3.9). Stare globala: 4.3 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.3 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 65975)
+[Thread 3] Procesat raport de la Senzorul 3 (Magnitudine: 4.4). Stare globala: 4.4 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.4 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 65975)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+{"ok":true,"result":{"message_id":10,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950033,"text":"ALARMA EWS! Cutremur de 4.4 grade detectat la coordonatele                     X:5 Y5! Evacuati Cladirea!!"}}[Thread 4] Procesat raport de la Senzorul 1 (Magnitudine: 5.6). Stare globala: 5.0 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.0 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 65975)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+{"ok":true,"result":{"message_id":11,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950034,"text":"ALARMA EWS! Cutremur de 5.6 grade detectat la coordonatele                     X:2 Y4! Evacuati Cladirea!!"}}[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 5] Procesat raport de la Senzorul 1 (Magnitudine: 4.8). Stare globala: 4.9 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.9 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 65975)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+{"ok":true,"result":{"message_id":12,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950036,"text":"ALARMA EWS! Cutremur de 4.8 grade detectat la coordonatele                     X:2 Y4! Evacuati Cladirea!!"}}[DAEMON] Puls receptionat de la senzorul cu ID 3
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 1] Procesat raport de la Senzorul 2 (Magnitudine: 3.9). Stare globala: 4.4 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.4 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 65975)
+[Thread 2] Procesat raport de la Senzorul 3 (Magnitudine: 3.5). Stare globala: 3.9 grade.
+[WATCHDOG] Eroare CRITICA! senzorul 4 a picat
+[WATCHDOG] Eroare CRITICA! senzorul 5 a picat
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 3] Procesat raport de la Senzorul 2 (Magnitudine: 2.6). Stare globala: 3.2 grade.
+[Thread 4] Procesat raport de la Senzorul 1 (Magnitudine: 3.8). Stare globala: 3.5 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 5] Procesat raport de la Senzorul 2 (Magnitudine: 3.8). Stare globala: 3.6 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 1] Procesat raport de la Senzorul 3 (Magnitudine: 2.9). Stare globala: 3.3 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 2] Procesat raport de la Senzorul 1 (Magnitudine: 4.2). Stare globala: 3.8 grade.
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+[Thread 3] Procesat raport de la Senzorul 3 (Magnitudine: 4.1). Stare globala: 3.9 grade.
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+[Thread 4] Procesat raport de la Senzorul 2 (Magnitudine: 2.9). Stare globala: 3.4 grade.
+{"ok":true,"result":{"message_id":13,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950049,"text":"ALARMA EWS! Cutremur de 4.2 grade detectat la coordonatele                     X:2 Y4! Evacuati Cladirea!!"}}{"ok":true,"result":{"message_id":14,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950049,"text":"ALARMA EWS! Cutremur de 4.1 grade detectat la coordonatele                     X:5 Y5! Evacuati Cladirea!!"}}[DAEMON] Puls receptionat de la senzorul cu ID 1
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 5] Procesat raport de la Senzorul 2 (Magnitudine: 4.8). Stare globala: 4.1 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.1 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 65975)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+{"ok":true,"result":{"message_id":15,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950052,"text":"ALARMA EWS! Cutremur de 4.8 grade detectat la coordonatele                     X:6 Y7! Evacuati Cladirea!!"}}[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 1] Procesat raport de la Senzorul 3 (Magnitudine: 6.5). Stare globala: 5.3 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.3 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 65975)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+{"ok":true,"result":{"message_id":16,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950054,"text":"ALARMA EWS! Cutremur de 6.5 grade detectat la coordonatele                     X:5 Y5! Evacuati Cladirea!!"}}[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 2] Procesat raport de la Senzorul 1 (Magnitudine: 6.0). Stare globala: 5.7 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.7 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 65975)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+[Thread 3] Procesat raport de la Senzorul 3 (Magnitudine: 6.8). Stare globala: 6.2 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (6.2 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 65975)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+{"ok":true,"result":{"message_id":17,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950056,"text":"ALARMA EWS! Cutremur de 6.8 grade detectat la coordonatele                     X:5 Y5! Evacuati Cladirea!!"}}{"ok":true,"result":{"message_id":18,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950056,"text":"ALARMA EWS! Cutremur de 6.0 grade detectat la coordonatele                     X:2 Y4! Evacuati Cladirea!!"}}[WATCHDOG] Eroare CRITICA! senzorul 4 a picat
+[WATCHDOG] Eroare CRITICA! senzorul 5 a picat
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 4] Procesat raport de la Senzorul 1 (Magnitudine: 4.4). Stare globala: 5.3 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.3 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 65975)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+[Thread 5] Procesat raport de la Senzorul 2 (Magnitudine: 5.4). Stare globala: 5.4 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.4 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 65975)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+{"ok":true,"result":{"message_id":19,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950058,"text":"ALARMA EWS! Cutremur de 4.4 grade detectat la coordonatele                     X:2 Y4! Evacuati Cladirea!!"}}{"ok":true,"result":{"message_id":20,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950058,"text":"ALARMA EWS! Cutremur de 5.4 grade detectat la coordonatele                     X:6 Y7! Evacuati Cladirea!!"}}[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 1] Procesat raport de la Senzorul 3 (Magnitudine: 2.2). Stare globala: 3.8 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 2] Procesat raport de la Senzorul 1 (Magnitudine: 2.4). Stare globala: 3.1 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 3] Procesat raport de la Senzorul 1 (Magnitudine: 4.4). Stare globala: 3.7 grade.
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+{"ok":true,"result":{"message_id":21,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950064,"text":"ALARMA EWS! Cutremur de 4.4 grade detectat la coordonatele                     X:2 Y4! Evacuati Cladirea!!"}}[Thread 4] Procesat raport de la Senzorul 2 (Magnitudine: 2.3). Stare globala: 3.0 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 5] Procesat raport de la Senzorul 3 (Magnitudine: 3.4). Stare globala: 3.2 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 1] Procesat raport de la Senzorul 2 (Magnitudine: 2.8). Stare globala: 3.0 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 2] Procesat raport de la Senzorul 1 (Magnitudine: 4.1). Stare globala: 3.5 grade.
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+{"ok":true,"result":{"message_id":22,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950071,"text":"ALARMA EWS! Cutremur de 4.1 grade detectat la coordonatele                     X:2 Y4! Evacuati Cladirea!!"}}[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 3] Procesat raport de la Senzorul 3 (Magnitudine: 4.1). Stare globala: 3.8 grade.
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+{"ok":true,"result":{"message_id":23,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950072,"text":"ALARMA EWS! Cutremur de 4.1 grade detectat la coordonatele                     X:5 Y5! Evacuati Cladirea!!"}}[WATCHDOG] Eroare CRITICA! senzorul 4 a picat
+[WATCHDOG] Eroare CRITICA! senzorul 5 a picat
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 4] Procesat raport de la Senzorul 2 (Magnitudine: 3.3). Stare globala: 3.5 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 5] Procesat raport de la Senzorul 2 (Magnitudine: 4.3). Stare globala: 3.9 grade.
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+{"ok":true,"result":{"message_id":24,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950076,"text":"ALARMA EWS! Cutremur de 4.3 grade detectat la coordonatele                     X:6 Y7! Evacuati Cladirea!!"}}[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 1] Procesat raport de la Senzorul 1 (Magnitudine: 2.4). Stare globala: 3.2 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 2] Procesat raport de la Senzorul 2 (Magnitudine: 2.3). Stare globala: 2.7 grade.
+
+[Daemon] Se opreste sistemul EWS... Stergem resursele din Kernel.
+S-a sters coada!
+S-a sters coada!
+S-a sters coada!
+[Daemon EWS] Initializat cu succes ca serviciu de sistem in background.
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 1] Procesat raport de la Senzorul 1 (Magnitudine: 4.9). Stare globala: 4.9 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.9 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 66420)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+{"ok":true,"result":{"message_id":25,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950144,"text":"ALARMA EWS! Cutremur de 4.9 grade detectat la coordonatele                     X:2 Y4! Evacuati Cladirea!!"}}[DAEMON] Puls receptionat de la senzorul cu ID 1
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[WATCHDOG] Eroare CRITICA! senzorul 4 a picat
+[WATCHDOG] Eroare CRITICA! senzorul 5 a picat
+[Thread 2] Procesat raport de la Senzorul 1 (Magnitudine: 4.8). Stare globala: 4.8 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.8 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 66475)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+[Thread 3] Procesat raport de la Senzorul 2 (Magnitudine: 2.3). Stare globala: 3.6 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 4] Procesat raport de la Senzorul 3 (Magnitudine: 4.3). Stare globala: 4.0 grade.
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+{"ok":true,"result":{"message_id":26,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950149,"text":"ALARMA EWS! Cutremur de 4.8 grade detectat la coordonatele                     X:2 Y4! Evacuati Cladirea!!"}}{"ok":true,"result":{"message_id":27,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950149,"text":"ALARMA EWS! Cutremur de 4.3 grade detectat la coordonatele                     X:5 Y5! Evacuati Cladirea!!"}}[Thread 5] Procesat raport de la Senzorul 1 (Magnitudine: 6.1). Stare globala: 5.0 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.0 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 66475)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+{"ok":true,"result":{"message_id":28,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950151,"text":"ALARMA EWS! Cutremur de 6.1 grade detectat la coordonatele                     X:2 Y4! Evacuati Cladirea!!"}}[DAEMON] Puls receptionat de la senzorul cu ID 1
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 1] Procesat raport de la Senzorul 3 (Magnitudine: 6.8). Stare globala: 5.9 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.9 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 66475)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+{"ok":true,"result":{"message_id":29,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950153,"text":"ALARMA EWS! Cutremur de 6.8 grade detectat la coordonatele                     X:5 Y5! Evacuati Cladirea!!"}}[Thread 2] Procesat raport de la Senzorul 2 (Magnitudine: 4.9). Stare globala: 5.4 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.4 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 66475)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 3] Procesat raport de la Senzorul 1 (Magnitudine: 4.6). Stare globala: 5.0 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.0 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 66475)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+{"ok":true,"result":{"message_id":30,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950154,"text":"ALARMA EWS! Cutremur de 4.9 grade detectat la coordonatele                     X:6 Y7! Evacuati Cladirea!!"}}{"ok":true,"result":{"message_id":31,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950154,"text":"ALARMA EWS! Cutremur de 4.6 grade detectat la coordonatele                     X:2 Y4! Evacuati Cladirea!!"}}[DAEMON] Puls receptionat de la senzorul cu ID 1
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 4] Procesat raport de la Senzorul 2 (Magnitudine: 2.9). Stare globala: 4.0 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 5] Procesat raport de la Senzorul 1 (Magnitudine: 4.4). Stare globala: 4.2 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.2 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 66475)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+[Thread 1] Procesat raport de la Senzorul 3 (Magnitudine: 4.4). Stare globala: 4.3 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.3 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 66475)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+{"ok":true,"result":{"message_id":32,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950160,"text":"ALARMA EWS! Cutremur de 4.4 grade detectat la coordonatele                     X:2 Y4! Evacuati Cladirea!!"}}{"ok":true,"result":{"message_id":33,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950161,"text":"ALARMA EWS! Cutremur de 4.4 grade detectat la coordonatele                     X:5 Y5! Evacuati Cladirea!!"}}[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 2] Procesat raport de la Senzorul 2 (Magnitudine: 3.6). Stare globala: 3.9 grade.
+[Thread 3] Procesat raport de la Senzorul 1 (Magnitudine: 3.4). Stare globala: 3.7 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[WATCHDOG] Eroare CRITICA! senzorul 4 a picat
+[WATCHDOG] Eroare CRITICA! senzorul 5 a picat
+[Thread 4] Procesat raport de la Senzorul 3 (Magnitudine: 4.1). Stare globala: 3.9 grade.
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+{"ok":true,"result":{"message_id":34,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950165,"text":"ALARMA EWS! Cutremur de 4.1 grade detectat la coordonatele                     X:5 Y5! Evacuati Cladirea!!"}}[Thread 5] Procesat raport de la Senzorul 2 (Magnitudine: 2.8). Stare globala: 3.3 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 1] Procesat raport de la Senzorul 2 (Magnitudine: 4.2). Stare globala: 3.8 grade.
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+[Thread 2] Procesat raport de la Senzorul 1 (Magnitudine: 7.8). Stare globala: 5.8 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.8 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 66475)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+{"ok":true,"result":{"message_id":35,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950168,"text":"ALARMA EWS! Cutremur de 7.8 grade detectat la coordonatele                     X:2 Y4! Evacuati Cladirea!!"}}{"ok":true,"result":{"message_id":36,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950168,"text":"ALARMA EWS! Cutremur de 4.2 grade detectat la coordonatele                     X:6 Y7! Evacuati Cladirea!!"}}[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 3] Procesat raport de la Senzorul 3 (Magnitudine: 2.7). Stare globala: 4.3 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.3 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 66475)
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 4] Procesat raport de la Senzorul 1 (Magnitudine: 4.9). Stare globala: 4.6 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.6 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 66475)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+[Thread 5] Procesat raport de la Senzorul 3 (Magnitudine: 5.0). Stare globala: 4.8 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.8 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 66475)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+{"ok":true,"result":{"message_id":37,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950172,"text":"ALARMA EWS! Cutremur de 5.0 grade detectat la coordonatele                     X:5 Y5! Evacuati Cladirea!!"}}{"ok":true,"result":{"message_id":38,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950172,"text":"ALARMA EWS! Cutremur de 4.9 grade detectat la coordonatele                     X:2 Y4! Evacuati Cladirea!!"}}[DAEMON] Puls receptionat de la senzorul cu ID 2
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 1] Procesat raport de la Senzorul 2 (Magnitudine: 7.8). Stare globala: 6.3 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (6.3 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 66475)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+{"ok":true,"result":{"message_id":39,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950174,"text":"ALARMA EWS! Cutremur de 7.8 grade detectat la coordonatele                     X:6 Y7! Evacuati Cladirea!!"}}[Thread 2] Procesat raport de la Senzorul 1 (Magnitudine: 6.9). Stare globala: 6.6 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (6.6 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 66475)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+{"ok":true,"result":{"message_id":40,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950175,"text":"ALARMA EWS! Cutremur de 6.9 grade detectat la coordonatele                     X:2 Y4! Evacuati Cladirea!!"}}[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 3] Procesat raport de la Senzorul 3 (Magnitudine: 2.9). Stare globala: 4.7 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.7 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 66475)
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+
+[Daemon] Se opreste sistemul EWS... Stergem resursele din Kernel.
+S-a sters coada!
+S-a sters coada!
+S-a sters coada!
+S-a sters coada!
+S-a sters coada!
+[Daemon EWS] Initializat cu succes ca serviciu de sistem in background.
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 2] Procesat raport de la Senzorul 1 (Magnitudine: 2.4). Stare globala: 2.4 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 1] Procesat raport de la Senzorul 2 (Magnitudine: 6.0). Stare globala: 4.2 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.2 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 67269)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+{"ok":true,"result":{"message_id":41,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950852,"text":"ALARMA EWS! Cutremur de 6.0 grade detectat la coordonatele                     X:6 Y7! Evacuati Cladirea!!"}}[Thread 3] Procesat raport de la Senzorul 3 (Magnitudine: 6.6). Stare globala: 5.4 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.4 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 67269)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[WATCHDOG] Eroare CRITICA! senzorul 4 a picat
+[WATCHDOG] Eroare CRITICA! senzorul 5 a picat
+{"ok":true,"result":{"message_id":42,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950853,"text":"ALARMA EWS! Cutremur de 6.6 grade detectat la coordonatele                     X:5 Y5! Evacuati Cladirea!!"}}[Thread 4] Procesat raport de la Senzorul 1 (Magnitudine: 3.8). Stare globala: 4.6 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.6 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 67269)
+[Thread 5] Procesat raport de la Senzorul 3 (Magnitudine: 4.0). Stare globala: 4.3 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.3 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 67269)
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 2] Procesat raport de la Senzorul 1 (Magnitudine: 2.5). Stare globala: 3.4 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 1] Procesat raport de la Senzorul 2 (Magnitudine: 3.9). Stare globala: 3.6 grade.
+[Thread 3] Procesat raport de la Senzorul 3 (Magnitudine: 7.3). Stare globala: 5.4 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.4 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 67269)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+{"ok":true,"result":{"message_id":43,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950859,"text":"ALARMA EWS! Cutremur de 7.3 grade detectat la coordonatele                     X:5 Y5! Evacuati Cladirea!!"}}[Thread 4] Procesat raport de la Senzorul 1 (Magnitudine: 2.7). Stare globala: 4.0 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.0 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 67269)
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 5] Procesat raport de la Senzorul 3 (Magnitudine: 7.0). Stare globala: 5.5 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.5 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 67269)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+{"ok":true,"result":{"message_id":44,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950862,"text":"ALARMA EWS! Cutremur de 7.0 grade detectat la coordonatele                     X:5 Y5! Evacuati Cladirea!!"}}[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 2] Procesat raport de la Senzorul 2 (Magnitudine: 3.9). Stare globala: 4.7 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.7 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 67269)
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 1] Procesat raport de la Senzorul 2 (Magnitudine: 3.1). Stare globala: 3.9 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 3] Procesat raport de la Senzorul 1 (Magnitudine: 4.1). Stare globala: 4.0 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.0 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 67269)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+{"ok":true,"result":{"message_id":45,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950867,"text":"ALARMA EWS! Cutremur de 4.1 grade detectat la coordonatele                     X:2 Y4! Evacuati Cladirea!!"}}[Thread 4] Procesat raport de la Senzorul 3 (Magnitudine: 2.5). Stare globala: 3.3 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[WATCHDOG] Eroare CRITICA! senzorul 4 a picat
+[WATCHDOG] Eroare CRITICA! senzorul 5 a picat
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 5] Procesat raport de la Senzorul 2 (Magnitudine: 4.1). Stare globala: 3.7 grade.
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+[Thread 2] Procesat raport de la Senzorul 1 (Magnitudine: 6.2). Stare globala: 4.9 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.9 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 67269)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+{"ok":true,"result":{"message_id":46,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950871,"text":"ALARMA EWS! Cutremur de 4.1 grade detectat la coordonatele                     X:6 Y7! Evacuati Cladirea!!"}}{"ok":true,"result":{"message_id":47,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950871,"text":"ALARMA EWS! Cutremur de 6.2 grade detectat la coordonatele                     X:2 Y4! Evacuati Cladirea!!"}}[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 1] Procesat raport de la Senzorul 2 (Magnitudine: 3.8). Stare globala: 4.3 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.3 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 67269)
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 3] Procesat raport de la Senzorul 3 (Magnitudine: 3.1). Stare globala: 3.7 grade.
+[Thread 4] Procesat raport de la Senzorul 1 (Magnitudine: 3.0). Stare globala: 3.4 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 5] Procesat raport de la Senzorul 3 (Magnitudine: 3.1). Stare globala: 3.3 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 2] Procesat raport de la Senzorul 2 (Magnitudine: 4.5). Stare globala: 3.9 grade.
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+[Thread 1] Procesat raport de la Senzorul 1 (Magnitudine: 4.2). Stare globala: 4.1 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.1 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 67269)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+{"ok":true,"result":{"message_id":48,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950879,"text":"ALARMA EWS! Cutremur de 4.2 grade detectat la coordonatele                     X:2 Y4! Evacuati Cladirea!!"}}{"ok":true,"result":{"message_id":49,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950879,"text":"ALARMA EWS! Cutremur de 4.5 grade detectat la coordonatele                     X:6 Y7! Evacuati Cladirea!!"}}[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 3] Procesat raport de la Senzorul 1 (Magnitudine: 2.4). Stare globala: 3.2 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 4] Procesat raport de la Senzorul 2 (Magnitudine: 2.8). Stare globala: 3.0 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 5] Procesat raport de la Senzorul 3 (Magnitudine: 3.0). Stare globala: 3.0 grade.
+[WATCHDOG] Eroare CRITICA! senzorul 4 a picat
+[WATCHDOG] Eroare CRITICA! senzorul 5 a picat
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 2] Procesat raport de la Senzorul 1 (Magnitudine: 7.2). Stare globala: 5.1 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.1 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 67269)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+[Thread 1] Procesat raport de la Senzorul 3 (Magnitudine: 3.4). Stare globala: 4.3 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.3 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 67269)
+{"ok":true,"result":{"message_id":50,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950886,"text":"ALARMA EWS! Cutremur de 7.2 grade detectat la coordonatele                     X:2 Y4! Evacuati Cladirea!!"}}[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 3] Procesat raport de la Senzorul 2 (Magnitudine: 2.9). Stare globala: 3.6 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 4] Procesat raport de la Senzorul 1 (Magnitudine: 2.6). Stare globala: 3.1 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 5] Procesat raport de la Senzorul 3 (Magnitudine: 4.4). Stare globala: 3.7 grade.
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+{"ok":true,"result":{"message_id":51,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950893,"text":"ALARMA EWS! Cutremur de 4.4 grade detectat la coordonatele                     X:5 Y5! Evacuati Cladirea!!"}}[Thread 2] Procesat raport de la Senzorul 2 (Magnitudine: 3.3). Stare globala: 3.5 grade.
+[Thread 1] Procesat raport de la Senzorul 1 (Magnitudine: 4.0). Stare globala: 3.8 grade.
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+{"ok":true,"result":{"message_id":52,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950895,"text":"ALARMA EWS! Cutremur de 4.0 grade detectat la coordonatele                     X:2 Y4! Evacuati Cladirea!!"}}[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 3] Procesat raport de la Senzorul 2 (Magnitudine: 2.6). Stare globala: 3.2 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 4] Procesat raport de la Senzorul 1 (Magnitudine: 7.7). Stare globala: 5.5 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.5 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 67269)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+{"ok":true,"result":{"message_id":53,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950898,"text":"ALARMA EWS! Cutremur de 7.7 grade detectat la coordonatele                     X:2 Y4! Evacuati Cladirea!!"}}[Thread 5] Procesat raport de la Senzorul 3 (Magnitudine: 7.5). Stare globala: 6.5 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (6.5 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 67269)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+{"ok":true,"result":{"message_id":54,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950900,"text":"ALARMA EWS! Cutremur de 7.5 grade detectat la coordonatele                     X:5 Y5! Evacuati Cladirea!!"}}[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 2] Procesat raport de la Senzorul 1 (Magnitudine: 4.0). Stare globala: 5.3 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.3 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 67269)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+[WATCHDOG] Eroare CRITICA! senzorul 4 a picat
+[WATCHDOG] Eroare CRITICA! senzorul 5 a picat
+{"ok":true,"result":{"message_id":55,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950901,"text":"ALARMA EWS! Cutremur de 4.0 grade detectat la coordonatele                     X:2 Y4! Evacuati Cladirea!!"}}[DAEMON] Puls receptionat de la senzorul cu ID 2
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 1] Procesat raport de la Senzorul 2 (Magnitudine: 2.4). Stare globala: 3.8 grade.
+[Thread 3] Procesat raport de la Senzorul 1 (Magnitudine: 4.0). Stare globala: 3.9 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 4] Procesat raport de la Senzorul 2 (Magnitudine: 3.5). Stare globala: 3.7 grade.
+[Thread 5] Procesat raport de la Senzorul 3 (Magnitudine: 2.5). Stare globala: 3.1 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 2] Procesat raport de la Senzorul 2 (Magnitudine: 2.9). Stare globala: 3.0 grade.
+[Thread 1] Procesat raport de la Senzorul 1 (Magnitudine: 3.7). Stare globala: 3.3 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 3] Procesat raport de la Senzorul 1 (Magnitudine: 3.9). Stare globala: 3.6 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 4] Procesat raport de la Senzorul 3 (Magnitudine: 3.0). Stare globala: 3.3 grade.
+[Thread 5] Procesat raport de la Senzorul 1 (Magnitudine: 4.4). Stare globala: 3.9 grade.
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+{"ok":true,"result":{"message_id":56,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950913,"text":"ALARMA EWS! Cutremur de 4.4 grade detectat la coordonatele                     X:2 Y4! Evacuati Cladirea!!"}}[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 2] Procesat raport de la Senzorul 2 (Magnitudine: 4.2). Stare globala: 4.0 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.0 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 67269)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+{"ok":true,"result":{"message_id":57,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779950916,"text":"ALARMA EWS! Cutremur de 4.2 grade detectat la coordonatele                     X:6 Y7! Evacuati Cladirea!!"}}[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 1] Procesat raport de la Senzorul 1 (Magnitudine: 2.0). Stare globala: 3.0 grade.
+[WATCHDOG] Eroare CRITICA! senzorul 4 a picat
+[WATCHDOG] Eroare CRITICA! senzorul 5 a picat
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+Eroare, s a inchis coada de asteptare: Identifier removed
+
+[Daemon] Se opreste sistemul EWS... Stergem resursele din Kernel.
+S-a sters coada!
+S-a sters coada!
+S-a sters coada!
+S-a sters coada!
+S-a sters coada!
+[Daemon EWS] Initializat cu succes ca serviciu de sistem in background.
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 1] Procesat raport de la Senzorul 2 (Magnitudine: 2.7). Stare globala: 2.7 grade.
+[Thread 2] Procesat raport de la Senzorul 1 (Magnitudine: 7.0). Stare globala: 4.8 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.8 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 67794)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+{"ok":true,"result":{"message_id":58,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779951034,"text":"ALARMA EWS! Cutremur de 7.0 grade detectat la coordonatele                     X:2 Y4! Evacuati Cladirea!!"}}[DAEMON] Puls receptionat de la senzorul cu ID 2
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 3] Procesat raport de la Senzorul 3 (Magnitudine: 4.7). Stare globala: 4.7 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.7 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 67794)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+{"ok":true,"result":{"message_id":59,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779951036,"text":"ALARMA EWS! Cutremur de 4.7 grade detectat la coordonatele                     X:5 Y5! Evacuati Cladirea!!"}}[Thread 4] Procesat raport de la Senzorul 1 (Magnitudine: 4.4). Stare globala: 4.6 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.6 grade)!
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+{"ok":true,"result":{"message_id":60,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779951037,"text":"ALARMA EWS! Cutremur de 4.4 grade detectat la coordonatele                     X:2 Y4! Evacuati Cladirea!!"}}[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 5] Procesat raport de la Senzorul 2 (Magnitudine: 3.0). Stare globala: 3.8 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[WATCHDOG] Eroare CRITICA! senzorul 4 a picat
+[WATCHDOG] Eroare CRITICA! senzorul 5 a picat
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 1] Procesat raport de la Senzorul 3 (Magnitudine: 3.1). Stare globala: 3.5 grade.
+[Thread 2] Procesat raport de la Senzorul 1 (Magnitudine: 3.6). Stare globala: 3.5 grade.
+[Thread 3] Procesat raport de la Senzorul 2 (Magnitudine: 3.6). Stare globala: 3.6 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 4] Procesat raport de la Senzorul 2 (Magnitudine: 2.4). Stare globala: 3.0 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 5] Procesat raport de la Senzorul 3 (Magnitudine: 2.1). Stare globala: 2.5 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 1] Procesat raport de la Senzorul 1 (Magnitudine: 6.6). Stare globala: 4.6 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.6 grade)!
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+{"ok":true,"result":{"message_id":61,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779951049,"text":"ALARMA EWS! Cutremur de 6.6 grade detectat la coordonatele                     X:2 Y4! Evacuati Cladirea!!"}}[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 2] Procesat raport de la Senzorul 3 (Magnitudine: 4.4). Stare globala: 4.5 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.5 grade)!
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+{"ok":true,"result":{"message_id":62,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779951050,"text":"ALARMA EWS! Cutremur de 4.4 grade detectat la coordonatele                     X:5 Y5! Evacuati Cladirea!!"}}[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 3] Procesat raport de la Senzorul 2 (Magnitudine: 3.6). Stare globala: 4.0 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.0 grade)!
+[Thread 4] Procesat raport de la Senzorul 2 (Magnitudine: 4.7). Stare globala: 4.4 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.4 grade)!
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+{"ok":true,"result":{"message_id":63,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779951053,"text":"ALARMA EWS! Cutremur de 4.7 grade detectat la coordonatele                     X:6 Y7! Evacuati Cladirea!!"}}[DAEMON] Puls receptionat de la senzorul cu ID 1
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 5] Procesat raport de la Senzorul 1 (Magnitudine: 2.1). Stare globala: 3.3 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 1] Procesat raport de la Senzorul 2 (Magnitudine: 2.8). Stare globala: 3.0 grade.
+[WATCHDOG] Eroare CRITICA! senzorul 4 a picat
+[WATCHDOG] Eroare CRITICA! senzorul 5 a picat
+[Thread 2] Procesat raport de la Senzorul 3 (Magnitudine: 3.5). Stare globala: 3.3 grade.
+[Thread 3] Procesat raport de la Senzorul 2 (Magnitudine: 3.4). Stare globala: 3.3 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 4] Procesat raport de la Senzorul 1 (Magnitudine: 3.9). Stare globala: 3.6 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+
+[Daemon] Se opreste sistemul EWS... Stergem resursele din Kernel.
+S-a sters coada!
+S-a sters coada!
+S-a sters coada!
+S-a sters coada!
+S-a sters coada!
+[Daemon EWS] Initializat cu succes ca serviciu de sistem in background.
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 1] Procesat raport de la Senzorul 1 (Magnitudine: 4.2). Stare globala: 4.2 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.2 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 68382)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+[Thread 3] Procesat raport de la Senzorul 2 (Magnitudine: 4.7). Stare globala: 4.5 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.5 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 68382)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 2] Procesat raport de la Senzorul 2 (Magnitudine: 7.4). Stare globala: 5.9 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.9 grade)!
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+[Thread 4] Procesat raport de la Senzorul 3 (Magnitudine: 3.7). Stare globala: 4.8 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.8 grade)!
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[WATCHDOG] Eroare CRITICA! senzorul 4 a picat
+[WATCHDOG] Eroare CRITICA! senzorul 5 a picat
+[Thread 5] Procesat raport de la Senzorul 1 (Magnitudine: 2.5). Stare globala: 3.7 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 1] Procesat raport de la Senzorul 3 (Magnitudine: 2.7). Stare globala: 3.2 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 3] Procesat raport de la Senzorul 2 (Magnitudine: 7.0). Stare globala: 5.1 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.1 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 68432)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+[Thread 2] Procesat raport de la Senzorul 1 (Magnitudine: 2.2). Stare globala: 3.6 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 4] Procesat raport de la Senzorul 3 (Magnitudine: 2.2). Stare globala: 2.9 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 5] Procesat raport de la Senzorul 2 (Magnitudine: 3.4). Stare globala: 3.2 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 1] Procesat raport de la Senzorul 1 (Magnitudine: 4.4). Stare globala: 3.8 grade.
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 3] Procesat raport de la Senzorul 3 (Magnitudine: 7.2). Stare globala: 5.5 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.5 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 68432)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+[Thread 2] Procesat raport de la Senzorul 2 (Magnitudine: 3.6). Stare globala: 4.5 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.5 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 68432)
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[WATCHDOG] Eroare CRITICA! senzorul 4 a picat
+[WATCHDOG] Eroare CRITICA! senzorul 5 a picat
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 4] Procesat raport de la Senzorul 1 (Magnitudine: 3.6). Stare globala: 4.1 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.1 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 68432)
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 5] Procesat raport de la Senzorul 3 (Magnitudine: 2.0). Stare globala: 3.0 grade.
+[Thread 1] Procesat raport de la Senzorul 2 (Magnitudine: 2.1). Stare globala: 2.6 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 3] Procesat raport de la Senzorul 3 (Magnitudine: 4.5). Stare globala: 3.5 grade.
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 2] Procesat raport de la Senzorul 2 (Magnitudine: 5.3). Stare globala: 4.4 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.4 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 68432)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+[Thread 4] Procesat raport de la Senzorul 1 (Magnitudine: 4.4). Stare globala: 4.4 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.4 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 68432)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 5] Procesat raport de la Senzorul 3 (Magnitudine: 2.3). Stare globala: 3.4 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 1] Procesat raport de la Senzorul 2 (Magnitudine: 4.3). Stare globala: 3.8 grade.
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 3] Procesat raport de la Senzorul 2 (Magnitudine: 3.8). Stare globala: 3.8 grade.
+[Thread 2] Procesat raport de la Senzorul 1 (Magnitudine: 3.8). Stare globala: 3.8 grade.
+[Thread 4] Procesat raport de la Senzorul 2 (Magnitudine: 3.2). Stare globala: 3.5 grade.
+[WATCHDOG] Eroare CRITICA! senzorul 4 a picat
+[WATCHDOG] Eroare CRITICA! senzorul 5 a picat
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 5] Procesat raport de la Senzorul 3 (Magnitudine: 4.4). Stare globala: 4.0 grade.
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+[Thread 1] Procesat raport de la Senzorul 1 (Magnitudine: 4.1). Stare globala: 4.0 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.0 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 68432)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 3] Procesat raport de la Senzorul 2 (Magnitudine: 6.9). Stare globala: 5.5 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.5 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 68432)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 2] Procesat raport de la Senzorul 3 (Magnitudine: 2.8). Stare globala: 4.2 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.2 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 68432)
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 4] Procesat raport de la Senzorul 2 (Magnitudine: 4.6). Stare globala: 4.4 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.4 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 68432)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+[Thread 5] Procesat raport de la Senzorul 1 (Magnitudine: 3.4). Stare globala: 3.9 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 1] Procesat raport de la Senzorul 3 (Magnitudine: 2.7). Stare globala: 3.3 grade.
+[Thread 3] Procesat raport de la Senzorul 1 (Magnitudine: 7.0). Stare globala: 5.2 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.2 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 68432)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 2] Procesat raport de la Senzorul 2 (Magnitudine: 2.9). Stare globala: 4.0 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.0 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 68432)
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 4] Procesat raport de la Senzorul 2 (Magnitudine: 4.5). Stare globala: 4.3 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.3 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 68432)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+[Thread 5] Procesat raport de la Senzorul 1 (Magnitudine: 2.2). Stare globala: 3.2 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[WATCHDOG] Eroare CRITICA! senzorul 4 a picat
+[WATCHDOG] Eroare CRITICA! senzorul 5 a picat
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 1] Procesat raport de la Senzorul 3 (Magnitudine: 2.2). Stare globala: 2.7 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 3] Procesat raport de la Senzorul 2 (Magnitudine: 3.8). Stare globala: 3.3 grade.
+[Thread 2] Procesat raport de la Senzorul 3 (Magnitudine: 8.0). Stare globala: 5.6 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.6 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 68432)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 4] Procesat raport de la Senzorul 2 (Magnitudine: 4.9). Stare globala: 5.3 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.3 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 68432)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 5] Procesat raport de la Senzorul 1 (Magnitudine: 3.2). Stare globala: 4.2 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.2 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 68432)
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 1] Procesat raport de la Senzorul 3 (Magnitudine: 2.2). Stare globala: 3.2 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 3] Procesat raport de la Senzorul 1 (Magnitudine: 2.2). Stare globala: 2.7 grade.
+[Thread 2] Procesat raport de la Senzorul 2 (Magnitudine: 4.0). Stare globala: 3.4 grade.
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+[Thread 4] Procesat raport de la Senzorul 3 (Magnitudine: 3.5). Stare globala: 3.5 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 5] Procesat raport de la Senzorul 3 (Magnitudine: 4.2). Stare globala: 3.8 grade.
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 1] Procesat raport de la Senzorul 2 (Magnitudine: 3.7). Stare globala: 3.7 grade.
+[WATCHDOG] Eroare CRITICA! senzorul 4 a picat
+[WATCHDOG] Eroare CRITICA! senzorul 5 a picat
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 3] Procesat raport de la Senzorul 1 (Magnitudine: 2.6). Stare globala: 3.2 grade.
+
+[Daemon] Se opreste sistemul EWS... Stergem resursele din Kernel.
+S-a sters coada!
+S-a sters coada!
+S-a sters coada!
+S-a sters coada!
+[Daemon EWS] Initializat cu succes ca serviciu de sistem in background.
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 1] Procesat raport de la Senzorul 1 (Magnitudine: 4.4). Stare globala: 4.4 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.4 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 68915)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 2] Procesat raport de la Senzorul 2 (Magnitudine: 6.6). Stare globala: 5.5 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.5 grade)!
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 3] Procesat raport de la Senzorul 1 (Magnitudine: 2.4). Stare globala: 3.9 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 4] Procesat raport de la Senzorul 3 (Magnitudine: 2.9). Stare globala: 3.4 grade.
+[WATCHDOG] Eroare CRITICA! senzorul 4 a picat
+[WATCHDOG] Eroare CRITICA! senzorul 5 a picat
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 5] Procesat raport de la Senzorul 2 (Magnitudine: 5.6). Stare globala: 4.5 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.5 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 68961)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 1] Procesat raport de la Senzorul 1 (Magnitudine: 3.0). Stare globala: 3.8 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 2] Procesat raport de la Senzorul 2 (Magnitudine: 7.9). Stare globala: 5.8 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.8 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 68961)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+[Thread 3] Procesat raport de la Senzorul 3 (Magnitudine: 7.6). Stare globala: 6.7 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (6.7 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 68961)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 4] Procesat raport de la Senzorul 1 (Magnitudine: 4.9). Stare globala: 5.8 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.8 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 68961)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 5] Procesat raport de la Senzorul 3 (Magnitudine: 4.5). Stare globala: 5.2 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.2 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 68961)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 1] Procesat raport de la Senzorul 2 (Magnitudine: 2.4). Stare globala: 3.8 grade.
+[Thread 2] Procesat raport de la Senzorul 3 (Magnitudine: 5.0). Stare globala: 4.4 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.4 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 68961)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 3] Procesat raport de la Senzorul 2 (Magnitudine: 3.6). Stare globala: 4.0 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 4] Procesat raport de la Senzorul 1 (Magnitudine: 6.9). Stare globala: 5.4 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.4 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 68961)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+[Thread 5] Procesat raport de la Senzorul 3 (Magnitudine: 5.0). Stare globala: 5.2 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.2 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 68961)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[WATCHDOG] Eroare CRITICA! senzorul 4 a picat
+[WATCHDOG] Eroare CRITICA! senzorul 5 a picat
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 1] Procesat raport de la Senzorul 1 (Magnitudine: 3.6). Stare globala: 4.4 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.4 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 68961)
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 2] Procesat raport de la Senzorul 2 (Magnitudine: 2.9). Stare globala: 3.6 grade.
+[Thread 3] Procesat raport de la Senzorul 3 (Magnitudine: 6.2). Stare globala: 4.9 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.9 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 68961)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+Eroare, s a inchis coada de asteptare: Identifier removed
+
+[Daemon] Se opreste sistemul EWS... Stergem resursele din Kernel.
+S-a sters coada!
+S-a sters coada!
+S-a sters coada!
+S-a sters coada!
+[Daemon EWS] Initializat cu succes ca serviciu de sistem in background.
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 1] Procesat raport de la Senzorul 3 (Magnitudine: 8.2). Stare globala: 8.2 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (8.2 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 69415)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 2] Procesat raport de la Senzorul 3 (Magnitudine: 2.4). Stare globala: 5.3 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.3 grade)!
+[Thread 4] Procesat raport de la Senzorul 1 (Magnitudine: 3.7). Stare globala: 4.5 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.5 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 69434)
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 3] Procesat raport de la Senzorul 2 (Magnitudine: 4.2). Stare globala: 4.4 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.4 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 69434)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+[Thread 5] Procesat raport de la Senzorul 3 (Magnitudine: 5.4). Stare globala: 4.9 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.9 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 69434)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 1] Procesat raport de la Senzorul 1 (Magnitudine: 2.2). Stare globala: 3.5 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[WATCHDOG] Eroare CRITICA! senzorul 4 a picat
+[WATCHDOG] Eroare CRITICA! senzorul 5 a picat
+[Thread 2] Procesat raport de la Senzorul 3 (Magnitudine: 5.0). Stare globala: 4.2 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.2 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 69434)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+[Thread 4] Procesat raport de la Senzorul 2 (Magnitudine: 2.3). Stare globala: 3.3 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 3] Procesat raport de la Senzorul 1 (Magnitudine: 2.4). Stare globala: 2.8 grade.
+[Thread 5] Procesat raport de la Senzorul 2 (Magnitudine: 2.4). Stare globala: 2.6 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 1] Procesat raport de la Senzorul 3 (Magnitudine: 6.5). Stare globala: 4.5 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.5 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 69434)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+[Thread 2] Procesat raport de la Senzorul 1 (Magnitudine: 2.4). Stare globala: 3.5 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 4] Procesat raport de la Senzorul 2 (Magnitudine: 7.9). Stare globala: 5.7 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.7 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 69434)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 3] Procesat raport de la Senzorul 1 (Magnitudine: 4.8). Stare globala: 5.3 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.3 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 69434)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+[Thread 5] Procesat raport de la Senzorul 2 (Magnitudine: 4.8). Stare globala: 5.0 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.0 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 69434)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+[Thread 1] Procesat raport de la Senzorul 3 (Magnitudine: 4.0). Stare globala: 4.5 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.5 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 69434)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[WATCHDOG] Eroare CRITICA! senzorul 4 a picat
+[WATCHDOG] Eroare CRITICA! senzorul 5 a picat
+[Thread 2] Procesat raport de la Senzorul 2 (Magnitudine: 3.2). Stare globala: 3.9 grade.
+Eroare, s a inchis coada de asteptare: Identifier removed
+
+[Daemon] Se opreste sistemul EWS... Stergem resursele din Kernel.
+S-a sters coada!
+S-a sters coada!
+S-a sters coada!
+S-a sters coada!
+[Daemon EWS] Initializat cu succes ca serviciu de sistem in background.
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 1] Procesat raport de la Senzorul 1 (Magnitudine: 2.0). Stare globala: 2.0 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 2] Procesat raport de la Senzorul 2 (Magnitudine: 7.4). Stare globala: 4.7 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.7 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 69771)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+[Thread 3] Procesat raport de la Senzorul 3 (Magnitudine: 3.1). Stare globala: 3.9 grade.
+{"ok":true,"result":{"message_id":64,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779951797,"text":"ALARMA EWS! Cutremur de 7.4 grade detectat la coordonatele                  X:6 Y7! Evacuati Cladirea!!"}}[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 4] Procesat raport de la Senzorul 1 (Magnitudine: 3.0). Stare globala: 3.4 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 5] Procesat raport de la Senzorul 1 (Magnitudine: 7.7). Stare globala: 5.6 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.6 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 69827)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+{"ok":true,"result":{"message_id":65,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779951801,"text":"ALARMA EWS! Cutremur de 7.7 grade detectat la coordonatele                  X:2 Y4! Evacuati Cladirea!!"}}[WATCHDOG] Eroare CRITICA! senzorul 4 a picat
+[WATCHDOG] Eroare CRITICA! senzorul 5 a picat
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 1] Procesat raport de la Senzorul 3 (Magnitudine: 4.8). Stare globala: 5.2 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.2 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 69827)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+{"ok":true,"result":{"message_id":66,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779951803,"text":"ALARMA EWS! Cutremur de 4.8 grade detectat la coordonatele                  X:5 Y5! Evacuati Cladirea!!"}}[Thread 2] Procesat raport de la Senzorul 2 (Magnitudine: 4.6). Stare globala: 4.9 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.9 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 69827)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 3] Procesat raport de la Senzorul 1 (Magnitudine: 2.3). Stare globala: 3.6 grade.
+{"ok":true,"result":{"message_id":67,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779951804,"text":"ALARMA EWS! Cutremur de 4.6 grade detectat la coordonatele                  X:6 Y7! Evacuati Cladirea!!"}}[Thread 4] Procesat raport de la Senzorul 3 (Magnitudine: 7.7). Stare globala: 5.6 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.6 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 69827)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+{"ok":true,"result":{"message_id":68,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779951805,"text":"ALARMA EWS! Cutremur de 7.7 grade detectat la coordonatele                  X:5 Y5! Evacuati Cladirea!!"}}[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 5] Procesat raport de la Senzorul 1 (Magnitudine: 4.3). Stare globala: 5.0 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.0 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 69827)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+{"ok":true,"result":{"message_id":69,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779951807,"text":"ALARMA EWS! Cutremur de 4.3 grade detectat la coordonatele                  X:2 Y4! Evacuati Cladirea!!"}}[DAEMON] Puls receptionat de la senzorul cu ID 2
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 1] Procesat raport de la Senzorul 2 (Magnitudine: 7.7). Stare globala: 6.3 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (6.3 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 69827)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+{"ok":true,"result":{"message_id":70,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779951810,"text":"ALARMA EWS! Cutremur de 7.7 grade detectat la coordonatele                  X:6 Y7! Evacuati Cladirea!!"}}[Thread 2] Procesat raport de la Senzorul 1 (Magnitudine: 2.2). Stare globala: 4.3 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.3 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 69827)
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 3] Procesat raport de la Senzorul 3 (Magnitudine: 6.6). Stare globala: 5.4 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.4 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 69827)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+{"ok":true,"result":{"message_id":71,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779951812,"text":"ALARMA EWS! Cutremur de 6.6 grade detectat la coordonatele                  X:5 Y5! Evacuati Cladirea!!"}}[DAEMON] Puls receptionat de la senzorul cu ID 1
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 4] Procesat raport de la Senzorul 2 (Magnitudine: 4.4). Stare globala: 4.9 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.9 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 69827)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+{"ok":true,"result":{"message_id":72,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779951815,"text":"ALARMA EWS! Cutremur de 4.4 grade detectat la coordonatele                  X:6 Y7! Evacuati Cladirea!!"}}[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 5] Procesat raport de la Senzorul 1 (Magnitudine: 3.4). Stare globala: 4.1 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.1 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 69827)
+[WATCHDOG] Eroare CRITICA! senzorul 4 a picat
+[WATCHDOG] Eroare CRITICA! senzorul 5 a picat
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 1] Procesat raport de la Senzorul 3 (Magnitudine: 4.3). Stare globala: 4.2 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.2 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 69827)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+{"ok":true,"result":{"message_id":73,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779951818,"text":"ALARMA EWS! Cutremur de 4.3 grade detectat la coordonatele                  X:5 Y5! Evacuati Cladirea!!"}}[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 2] Procesat raport de la Senzorul 1 (Magnitudine: 3.5). Stare globala: 3.9 grade.
+[Thread 3] Procesat raport de la Senzorul 2 (Magnitudine: 2.9). Stare globala: 3.4 grade.
+[Thread 4] Procesat raport de la Senzorul 3 (Magnitudine: 3.9). Stare globala: 3.6 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 5] Procesat raport de la Senzorul 3 (Magnitudine: 2.0). Stare globala: 2.8 grade.
+[Thread 1] Procesat raport de la Senzorul 2 (Magnitudine: 6.3). Stare globala: 4.6 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.6 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 69827)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+{"ok":true,"result":{"message_id":74,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779951825,"text":"ALARMA EWS! Cutremur de 6.3 grade detectat la coordonatele                  X:6 Y7! Evacuati Cladirea!!"}}[Thread 2] Procesat raport de la Senzorul 1 (Magnitudine: 4.8). Stare globala: 4.7 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.7 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 69827)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+{"ok":true,"result":{"message_id":75,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779951826,"text":"ALARMA EWS! Cutremur de 4.8 grade detectat la coordonatele                  X:2 Y4! Evacuati Cladirea!!"}}Eroare, s a inchis coada de asteptare: Identifier removed
+
+[Daemon] Se opreste sistemul EWS... Stergem resursele din Kernel.
+S-a sters coada!
+S-a sters coada!
+S-a sters coada!
+S-a sters coada!
+[Daemon EWS] Initializat cu succes ca serviciu de sistem in background.
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 1] Procesat raport de la Senzorul 3 (Magnitudine: 3.5). Stare globala: 3.5 grade.
+[WATCHDOG] Eroare CRITICA! senzorul 4 a picat
+[WATCHDOG] Eroare CRITICA! senzorul 5 a picat
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 2] Procesat raport de la Senzorul 2 (Magnitudine: 3.0). Stare globala: 3.2 grade.
+[Thread 3] Procesat raport de la Senzorul 1 (Magnitudine: 7.3). Stare globala: 5.3 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.3 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 70183)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+{"ok":true,"result":{"message_id":76,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779951905,"text":"ALARMA EWS! Cutremur de 7.3 grade detectat la coordonatele X:2 Y4! Evacuati Cladirea!!"}}[Thread 4] Procesat raport de la Senzorul 3 (Magnitudine: 6.9). Stare globala: 6.1 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (6.1 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 70183)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+{"ok":true,"result":{"message_id":77,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779951906,"text":"ALARMA EWS! Cutremur de 6.9 grade detectat la coordonatele X:5 Y5! Evacuati Cladirea!!"}}[Thread 5] Procesat raport de la Senzorul 1 (Magnitudine: 3.4). Stare globala: 4.7 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.7 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 70183)
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 1] Procesat raport de la Senzorul 2 (Magnitudine: 2.0). Stare globala: 3.4 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 2] Procesat raport de la Senzorul 3 (Magnitudine: 6.8). Stare globala: 5.1 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.1 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 70183)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+{"ok":true,"result":{"message_id":78,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779951913,"text":"ALARMA EWS! Cutremur de 6.8 grade detectat la coordonatele X:5 Y5! Evacuati Cladirea!!"}}[Thread 3] Procesat raport de la Senzorul 1 (Magnitudine: 3.6). Stare globala: 4.4 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.4 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 70183)
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 5] Procesat raport de la Senzorul 1 (Magnitudine: 8.2). Stare globala: 6.3 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (6.3 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 70183)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+[Thread 4] Procesat raport de la Senzorul 2 (Magnitudine: 6.9). Stare globala: 6.6 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (6.6 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 70183)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+[Thread 1] Procesat raport de la Senzorul 3 (Magnitudine: 7.6). Stare globala: 7.1 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (7.1 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 70183)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+{"ok":true,"result":{"message_id":79,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779951917,"text":"ALARMA EWS! Cutremur de 6.9 grade detectat la coordonatele X:6 Y7! Evacuati Cladirea!!"}}{"ok":true,"result":{"message_id":80,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779951917,"text":"ALARMA EWS! Cutremur de 8.2 grade detectat la coordonatele X:2 Y4! Evacuati Cladirea!!"}}{"ok":true,"result":{"message_id":81,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779951917,"text":"ALARMA EWS! Cutremur de 7.6 grade detectat la coordonatele X:5 Y5! Evacuati Cladirea!!"}}[DAEMON] Puls receptionat de la senzorul cu ID 2
+[WATCHDOG] Eroare CRITICA! senzorul 4 a picat
+[WATCHDOG] Eroare CRITICA! senzorul 5 a picat
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 3] Procesat raport de la Senzorul 1 (Magnitudine: 6.7). Stare globala: 6.9 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (6.9 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 70183)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+[Thread 2] Procesat raport de la Senzorul 2 (Magnitudine: 3.8). Stare globala: 5.3 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.3 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 70183)
+{"ok":true,"result":{"message_id":82,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779951919,"text":"ALARMA EWS! Cutremur de 6.7 grade detectat la coordonatele X:2 Y4! Evacuati Cladirea!!"}}[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 5] Procesat raport de la Senzorul 1 (Magnitudine: 3.1). Stare globala: 4.2 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.2 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 70183)
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 4] Procesat raport de la Senzorul 3 (Magnitudine: 4.9). Stare globala: 4.5 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.5 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 70183)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+{"ok":true,"result":{"message_id":83,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779951923,"text":"ALARMA EWS! Cutremur de 4.9 grade detectat la coordonatele X:5 Y5! Evacuati Cladirea!!"}}[DAEMON] Puls receptionat de la senzorul cu ID 2
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 1] Procesat raport de la Senzorul 2 (Magnitudine: 4.9). Stare globala: 4.7 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.7 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 70183)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+[Thread 3] Procesat raport de la Senzorul 3 (Magnitudine: 3.1). Stare globala: 3.9 grade.
+{"ok":true,"result":{"message_id":84,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779951925,"text":"ALARMA EWS! Cutremur de 4.9 grade detectat la coordonatele X:6 Y7! Evacuati Cladirea!!"}}[Thread 2] Procesat raport de la Senzorul 1 (Magnitudine: 6.4). Stare globala: 5.2 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.2 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 70183)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+{"ok":true,"result":{"message_id":85,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779951927,"text":"ALARMA EWS! Cutremur de 6.4 grade detectat la coordonatele X:2 Y4! Evacuati Cladirea!!"}}[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 5] Procesat raport de la Senzorul 3 (Magnitudine: 4.8). Stare globala: 5.0 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.0 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 70183)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+{"ok":true,"result":{"message_id":86,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779951928,"text":"ALARMA EWS! Cutremur de 4.8 grade detectat la coordonatele X:5 Y5! Evacuati Cladirea!!"}}[DAEMON] Puls receptionat de la senzorul cu ID 2
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 4] Procesat raport de la Senzorul 2 (Magnitudine: 3.8). Stare globala: 4.4 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.4 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 70183)
+[Thread 1] Procesat raport de la Senzorul 1 (Magnitudine: 3.1). Stare globala: 3.8 grade.
+[Thread 3] Procesat raport de la Senzorul 3 (Magnitudine: 4.9). Stare globala: 4.3 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.3 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 70183)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+{"ok":true,"result":{"message_id":87,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779951930,"text":"ALARMA EWS! Cutremur de 4.9 grade detectat la coordonatele X:5 Y5! Evacuati Cladirea!!"}}[Thread 2] Procesat raport de la Senzorul 2 (Magnitudine: 3.2). Stare globala: 3.8 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+
+[Daemon] Se opreste sistemul EWS... Stergem resursele din Kernel.
+S-a sters coada!
+S-a sters coada!
+S-a sters coada!
+S-a sters coada!
+S-a sters coada!
+[Daemon EWS] Initializat cu succes ca serviciu de sistem in background.
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 1] Procesat raport de la Senzorul 1 (Magnitudine: 7.2). Stare globala: 7.2 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (7.2 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 70820)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 2] Procesat raport de la Senzorul 3 (Magnitudine: 6.0). Stare globala: 6.6 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (6.6 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 70820)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+{"ok":true,"result":{"message_id":88,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779952323,"text":"ALARMA EWS! Cutremur de 7.2 grade detectat la coordonatele X:2 Y4! Evacuati Cladirea!!"}}{"ok":true,"result":{"message_id":89,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779952323,"text":"ALARMA EWS! Cutremur de 6.0 grade detectat la coordonatele X:5 Y5! Evacuati Cladirea!!"}}[DAEMON] Puls receptionat de la senzorul cu ID 1
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 3] Procesat raport de la Senzorul 2 (Magnitudine: 4.4). Stare globala: 5.5 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.5 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 70820)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+{"ok":true,"result":{"message_id":90,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779952327,"text":"ALARMA EWS! Cutremur de 4.4 grade detectat la coordonatele X:6 Y7! Evacuati Cladirea!!"}}[Thread 4] Procesat raport de la Senzorul 1 (Magnitudine: 7.8). Stare globala: 6.6 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (6.6 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 70820)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+{"ok":true,"result":{"message_id":91,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779952328,"text":"ALARMA EWS! Cutremur de 7.8 grade detectat la coordonatele X:2 Y4! Evacuati Cladirea!!"}}[Thread 5] Procesat raport de la Senzorul 3 (Magnitudine: 3.4). Stare globala: 5.0 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.0 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 70820)
+[WATCHDOG] Eroare CRITICA! senzorul 4 a picat
+[WATCHDOG] Eroare CRITICA! senzorul 5 a picat
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 1] Procesat raport de la Senzorul 2 (Magnitudine: 6.1). Stare globala: 5.6 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.6 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 70820)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+{"ok":true,"result":{"message_id":92,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779952334,"text":"ALARMA EWS! Cutremur de 6.1 grade detectat la coordonatele X:6 Y7! Evacuati Cladirea!!"}}[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 2] Procesat raport de la Senzorul 1 (Magnitudine: 2.6). Stare globala: 4.1 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.1 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 70820)
+[Thread 3] Procesat raport de la Senzorul 3 (Magnitudine: 2.1). Stare globala: 3.1 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 4] Procesat raport de la Senzorul 2 (Magnitudine: 4.0). Stare globala: 3.6 grade.
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+{"ok":true,"result":{"message_id":93,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779952337,"text":"ALARMA EWS! Cutremur de 4.0 grade detectat la coordonatele X:6 Y7! Evacuati Cladirea!!"}}[Thread 5] Procesat raport de la Senzorul 3 (Magnitudine: 4.7). Stare globala: 4.1 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.1 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 70820)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+{"ok":true,"result":{"message_id":94,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779952338,"text":"ALARMA EWS! Cutremur de 4.7 grade detectat la coordonatele X:5 Y5! Evacuati Cladirea!!"}}[DAEMON] Puls receptionat de la senzorul cu ID 3
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 1] Procesat raport de la Senzorul 2 (Magnitudine: 3.1). Stare globala: 3.6 grade.
+[Thread 2] Procesat raport de la Senzorul 1 (Magnitudine: 2.6). Stare globala: 3.1 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 3] Procesat raport de la Senzorul 3 (Magnitudine: 5.6). Stare globala: 4.4 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.4 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 70820)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:5
+y:5
+{"ok":true,"result":{"message_id":95,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779952345,"text":"ALARMA EWS! Cutremur de 5.6 grade detectat la coordonatele X:5 Y5! Evacuati Cladirea!!"}}[WATCHDOG] Eroare CRITICA! senzorul 4 a picat
+[WATCHDOG] Eroare CRITICA! senzorul 5 a picat
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 4] Procesat raport de la Senzorul 2 (Magnitudine: 3.5). Stare globala: 3.9 grade.
+[Thread 5] Procesat raport de la Senzorul 1 (Magnitudine: 2.1). Stare globala: 3.0 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 1] Procesat raport de la Senzorul 3 (Magnitudine: 3.9). Stare globala: 3.4 grade.
+[Thread 2] Procesat raport de la Senzorul 1 (Magnitudine: 5.2). Stare globala: 4.3 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.3 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 70820)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 3] Procesat raport de la Senzorul 2 (Magnitudine: 6.1). Stare globala: 5.2 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (5.2 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 70820)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+{"ok":true,"result":{"message_id":96,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779952351,"text":"ALARMA EWS! Cutremur de 5.2 grade detectat la coordonatele X:2 Y4! Evacuati Cladirea!!"}}{"ok":true,"result":{"message_id":97,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779952352,"text":"ALARMA EWS! Cutremur de 6.1 grade detectat la coordonatele X:6 Y7! Evacuati Cladirea!!"}}[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 4] Procesat raport de la Senzorul 2 (Magnitudine: 4.1). Stare globala: 4.7 grade.
+[CRITIC] CUTREMUR MARE DETECTAT (4.7 grade)!
+[DAEMON] Semnal SIGUSR1 trimis catre Dashboard (PID: 70820)
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+{"ok":true,"result":{"message_id":98,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779952353,"text":"ALARMA EWS! Cutremur de 4.1 grade detectat la coordonatele X:6 Y7! Evacuati Cladirea!!"}}[Thread 5] Procesat raport de la Senzorul 3 (Magnitudine: 3.2). Stare globala: 4.0 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[DAEMON] Puls receptionat de la senzorul cu ID 1
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[Thread 1] Procesat raport de la Senzorul 1 (Magnitudine: 2.6). Stare globala: 3.3 grade.
+[Thread 2] Procesat raport de la Senzorul 2 (Magnitudine: 4.2). Stare globala: 3.7 grade.
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:6
+y:7
+{"ok":true,"result":{"message_id":99,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779952358,"text":"ALARMA EWS! Cutremur de 4.2 grade detectat la coordonatele X:6 Y7! Evacuati Cladirea!!"}}[DAEMON] Puls receptionat de la senzorul cu ID 1
+[Thread 3] Procesat raport de la Senzorul 3 (Magnitudine: 4.0). Stare globala: 3.8 grade.
+[DAEMON] Puls receptionat de la senzorul cu ID 2
+[WATCHDOG] Eroare CRITICA! senzorul 4 a picat
+[WATCHDOG] Eroare CRITICA! senzorul 5 a picat
+[DAEMON] Puls receptionat de la senzorul cu ID 3
+[Thread 4] Procesat raport de la Senzorul 2 (Magnitudine: 2.8). Stare globala: 3.3 grade.
+[Thread 5] Procesat raport de la Senzorul 1 (Magnitudine: 4.0). Stare globala: 3.7 grade.
+[Daemon] Semnal de oprire de urgenta pentru Trenurile din zona 
+x:2
+y:4
+{"ok":true,"result":{"message_id":100,"from":{"id":8834385893,"is_bot":true,"first_name":"EWS-Alert-Bot","username":"SistemAlarmaEWSBot"},"chat":{"id":5475192103,"first_name":"hatz","last_name":"nohn","username":"vreaupapa","type":"private"},"date":1779952364,"text":"ALARMA EWS! Cutremur de 4.0 grade detectat la coordonatele X:2 Y4! Evacuati Cladirea!!"}}Eroare, s a inchis coada de asteptare: Identifier removed
+
+[Daemon] Se opreste sistemul EWS... Stergem resursele din Kernel.
+S-a sters coada!
+S-a sters coada!
+S-a sters coada!
+S-a sters coada!

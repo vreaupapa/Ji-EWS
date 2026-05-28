@@ -13,6 +13,8 @@
 #define MAX_SENSORS 5
 #define THRESHOLD_DANGER 4.0 //magnitudinea peste care e nasol
 #define PROJECT_ID 'J'
+#define TELEGRAM_BOT_TOKEN "8834385893:AAFBw_kZqzW_CcolxR3QZk_ca8W3ZxUTrkw"
+#define TELEGRAM_CHAT_ID "5475192103"
 
 //senzor -> daemon (mtype = 1)
 struct sensor_msg{

@@ -1,4 +1,5 @@
 #include "ews-common.h"
+#include <errno.h>
 
 volatile sig_atomic_t alerta_critica = 0;
 
@@ -52,6 +53,10 @@ int main(){
     while(1){
         //asteptam sa primim un mesaj cu mtype = 2
         if(msgrcv(msgid, &statistici, stats_size, 2, 0) < 0){
+            //verificam daca apelul doar a fost intrerupt de sigurs1, nu ca s a sters coada pe bune
+            if(errno == EINTR){
+                continue;
+            }
             printf("\n[Dashboard] Conexiunea cu Daemonul s a pierdut(coada a fost stearsa)");
             break;
         }
