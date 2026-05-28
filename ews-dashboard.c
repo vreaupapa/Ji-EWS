@@ -13,6 +13,20 @@ void handle_exit(int sig){
 }
 
 int main(){
+    //dashboard este interfata doar pentru administratori, facem sa ceara parola cand vreau sa il execut
+    printf("parola:");
+
+    int auth = system("sudo -k && sudo -v");
+
+    if(auth){
+        printf("\n\033[1;31m[EROARE SECURITATE] Autentificare esuata! Acces respins.\033[0m\n");
+        exit(EXIT_FAILURE);
+    }
+
+    printf("\n\033[1;32m Autentificare cu succes! Se deschide interfata...\033[0m\n");
+    sleep(1);
+
+
     //facem un fisier pentru a scrie pid ul procesului dashboard
     FILE *pid_file = fopen("dashboard.pid", "w");
     if(pid_file) {
